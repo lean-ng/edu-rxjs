@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main {
+  flex: 1 0 auto;
+}

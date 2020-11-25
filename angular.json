@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "edu-rxjs"
+  "defaultProject": "edu-rxjs",
+  "cli": {
+    "analytics": false
+  }
 }

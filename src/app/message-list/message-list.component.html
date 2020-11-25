@@ -1,0 +1,5 @@
+<p>message-list works!</p>
+<h2>Last 5 Messages</h2>
+<ul>
+  <li *ngFor="let m of messages$ | async">{{ m }}</li>
+</ul>
